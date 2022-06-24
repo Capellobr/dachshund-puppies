@@ -1,0 +1,3 @@
+user-agent: *
+ALlow: /
+sitemap:https://dachshundpuppieskennel.com/sitemap.xml
